@@ -4,7 +4,7 @@ using namespace std;
 public class priority
 {
     public static void Test() {
-        // This is an xample of creating and using the priority queue
+        // This is an example of creating and using the priority queue
         var priorityQueue = new PriorityQueue();
         Console.WriteLine(priorityQueue);
 
