@@ -6,7 +6,9 @@
                 "${workspaceFolder}/**"
             ],
             "defines": [],
-            "macFrameworkPath": []
+            "macFrameworkPath": [],
+            "compilerPath": "/usr/bin/clang",
+            "intelliSenseMode": "macos-clang-x64"
         }
     ],
     "version": 4
