@@ -7,8 +7,8 @@
             ],
             "defines": [],
             "macFrameworkPath": [],
-            "compilerPath": "/usr/bin/clang",
-            "intelliSenseMode": "macos-clang-x64"
+            "compilerPath": "/usr/bin/cpp",
+            "intelliSenseMode": "${default}"
         }
     ],
     "version": 4
