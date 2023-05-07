@@ -2,13 +2,13 @@
 
 {Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-This software is too make a list andd enqueue and dequeue items in/out of it.
+This software is to make a list and enqueue and dequeue items in/out of it.
 
 The purpose in creating this software is to show what I know about object oriented programming.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/idwzbcFTul0)
 
 # Development Environment
 
